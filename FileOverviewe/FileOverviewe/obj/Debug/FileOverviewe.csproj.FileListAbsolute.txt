@@ -1,0 +1,10 @@
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\bin\Debug\FileOverviewe.exe.config
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\bin\Debug\FileOverviewe.exe
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\bin\Debug\FileOverviewe.pdb
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.csprojAssemblyReference.cache
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.Form1.resources
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.Properties.Resources.resources
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.csproj.GenerateResource.cache
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.exe
+C:\Users\Кирилл Шехурин\source\repos\FileOverviewe\FileOverviewe\obj\Debug\FileOverviewe.pdb
